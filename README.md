@@ -32,4 +32,4 @@ _HTML - CSS - JS_
 
 *MIT*
 
-Copyright (c) 2015 ** Luca Quatela - Inthrayuth M.**
+Copyright (c) 2015
