@@ -43,6 +43,7 @@
 	};
 
 $(document).ready(function() {
+	// Start Project User Interface 1 ---------------
 	$("form#add").submit(function(event) {
 		event.preventDefault();
 		var number1 = parseInt($("#add1").val());
@@ -58,5 +59,8 @@ $(document).ready(function() {
 		var result = subtract(number1, number2);
 		$("#output").text(result);
 	});
-
+	// End Project User Interface 1 ---------------
+	// Start Project User Interface 2 ---------------
+	
+	// End Project User Interface 1 ---------------
 });
