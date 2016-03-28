@@ -30,11 +30,52 @@
         <button type="submit" class="btn btn-success">Subtract</button>
       </form>
 
-      <h3>Result:  <span id="output"></span></h3>
+      <h3>Result:  <span id="output1"></span></h3>
 
       <hr>    <!-- End Project User Interface 1 -->
 
       <h1>Calculator User Interface 2</h1>  <!-- Start Project User Interface 2 -->
+      <form id="calculator2">
+        <div class="row">
+          <div class="form-group col-sm-3">
+            <label for="input1">1st number:</label>
+            <input id="input1" class="form-control" type="text">
+          </div>
+          <div class="form-group col-sm-3">
+            <label for="input2">2nd number:</label>
+            <input id="input2" class="form-control" type="text">
+          </div>
+        </div>
+
+        <div class="radio">
+          <label>
+            <input type="radio" name="operator" value="add" checked>
+            add
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="operator" value="subtract">
+            subtract
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="operator" value="multiply">
+            multiply
+          </label>
+        </div>
+        <div class="radio">
+          <label>
+            <input type="radio" name="operator" value="divide">
+            divide
+          </label>
+        </div>
+        
+        <button type="submit" class="btn btn-success col-sm-1">Go!</button>
+      </form>
+      <br>
+      <h3>Result:  <span id="output2"></span></h3>
 
       <!-- End Project User Interface 2 -->
     </div>  <!-- End container -->
