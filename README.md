@@ -3,7 +3,8 @@
 #### _It is the best calculator_
 
 #### By Luca Quatela and Inthrayuth Mahaphol 03/21/2016
-#### By Ned Faulhaber and Inthrayuth Mahaphol 03/23/2016
+#### Updated By Ned Faulhaber and Inthrayuth Mahaphol 03/23/2016
+#### Updated By Inthrayuth Mahaphol 03/27/2016
 
 ## Description
 
