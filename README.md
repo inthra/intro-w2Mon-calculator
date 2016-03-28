@@ -20,9 +20,9 @@ _Not yet_
 
 ## Support and contact details
 
-_lucaqq@gmail.com_
-_zign.int@gmail.com_
-_nedfaulhaber@gmail.com_
+* _lucaqq@gmail.com_
+* _zign.int@gmail.com_
+* _nedfaulhaber@gmail.com_
 
 ## Technologies Used
 
